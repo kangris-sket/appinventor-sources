@@ -18,4 +18,4 @@ jobs:
     - name: Cd
       run: cd appinventor  
     - name: Build with Ant
-      run: ant -noinput -buildfile build.xml
+      run: ant
